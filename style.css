@@ -40,26 +40,6 @@
   line-height: 90px;
   top: -29px;
 }
-.dynamic-txts li span::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background: #fff;
-  border-left: 2px solid #0d6efd;
-  padding: 14px;
-  animation: typing 2s steps(10) infinite;
-}
-@keyframes typing {
-  40%,
-  60% {
-    left: calc(100%);
-  }
-  100% {
-    left: 0;
-  }
-}
 
 .font-joss {
   font-family: "Josefin Sans", sans-serif;
