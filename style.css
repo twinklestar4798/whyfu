@@ -1,0 +1,67 @@
+.box-header {
+  border-bottom: 4px solid black;
+}
+.judul {
+  font-family: "Fredoka One", cursive;
+  margin: 2rem auto;
+}
+.font-joss {
+  font-family: "Josefin Sans", sans-serif;
+}
+.font-open {
+  font-family: "Open Sans", sans-serif;
+}
+.font-rale {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+}
+.font-mono {
+  font-family: "IBM Plex Mono", monospace;
+}
+.yt-color:hover {
+  color: red;
+}
+.text-li {
+  text-decoration: underline;
+  color: #212529;
+}
+.tw-color:hover {
+  color: rgb(0, 153, 255);
+}
+.abt-judul {
+  margin: 1rem auto;
+  font-weight: 400;
+  padding: 0.5rem;
+  text-align: center;
+  letter-spacing: 4px;
+  color: #6c757d;
+  font-size: medium;
+}
+
+.end-judul {
+  text-align: end;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.list {
+  margin-left: 1rem;
+  padding-left: 1rem;
+}
+
+.text-st {
+  text-align: justify;
+  line-height: 2rem;
+}
+
+.mini-judul {
+  font-weight: 400;
+  padding: 0.5rem;
+  letter-spacing: 4px;
+  color: #6c757d;
+  font-size: small;
+  border-bottom: 2px solid;
+  margin-bottom: 1rem;
+  text-align: center;
+}
